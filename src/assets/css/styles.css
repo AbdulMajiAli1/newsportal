@@ -11222,6 +11222,14 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.font-merriWeather {
+  font-family: Merriweather, serif;
+}
+
+.font-workSans {
+  font-family: Work Sans, sans-serif;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -41844,6 +41852,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .sm\:font-merriWeather {
+    font-family: Merriweather, serif;
+  }
+
+  .sm\:font-workSans {
+    font-family: Work Sans, sans-serif;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -72386,6 +72402,14 @@ video {
 
   .md\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .md\:font-merriWeather {
+    font-family: Merriweather, serif;
+  }
+
+  .md\:font-workSans {
+    font-family: Work Sans, sans-serif;
   }
 
   .md\:font-thin {
@@ -102932,6 +102956,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .lg\:font-merriWeather {
+    font-family: Merriweather, serif;
+  }
+
+  .lg\:font-workSans {
+    font-family: Work Sans, sans-serif;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -133476,6 +133508,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .xl\:font-merriWeather {
+    font-family: Merriweather, serif;
+  }
+
+  .xl\:font-workSans {
+    font-family: Work Sans, sans-serif;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -164018,6 +164058,14 @@ video {
 
   .\32xl\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .\32xl\:font-merriWeather {
+    font-family: Merriweather, serif;
+  }
+
+  .\32xl\:font-workSans {
+    font-family: Work Sans, sans-serif;
   }
 
   .\32xl\:font-thin {

@@ -10,6 +10,11 @@ module.exports = {
       fontFamily: {
         merriWeather: ['Merriweather', 'serif'],
         workSans: ['Work Sans', 'sans-serif']
+      },
+      color: {
+        primary: {
+          meduimseagreen: '#34dd8a',
+        }
       }
     },
   },

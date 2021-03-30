@@ -54,8 +54,11 @@ module.exports = {
           DEFAULT: '#7382D0',
           light: '#7A7377',
         }
+      },
+      fontSize: {
+        small: ['8px', '18px']
       }
-    },
+    }
   },
   variants: {
     extend: {},

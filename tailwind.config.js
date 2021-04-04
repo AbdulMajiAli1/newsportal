@@ -57,7 +57,10 @@ module.exports = {
       },
       fontSize: {
         small: ['8px', '18px']
-      }
+      },
+      width: {
+        "nav-width": "40%",
+      },
     }
   },
   variants: {
